@@ -1,0 +1,2 @@
+# amplifyapp
+amplifyapp AWS GraphQl
